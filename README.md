@@ -56,7 +56,7 @@
 ### 📬 Connect with Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hatenoway)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lilichkag.1979@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lilichkag.1979@gmail.com)
 
 ---
 
@@ -122,7 +122,7 @@
 ### 📬 Связь со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hatenoway)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lilichkag.1979@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lilichkag.1979@gmail.com)
 
 ---
 
@@ -131,14 +131,14 @@
 ---
 
 <!-- ============================================ -->
-<!--          GITHUB STATS (бонус)                 -->
+<!--          GITHUB STATS (РАБОТАЕТ)              -->
 <!-- ============================================ -->
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical&hide_border=true" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blinowvw&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blinowvw&layout=compact&theme=radical&hide_border=true" width="41%" />
 </p>
 
 ---
@@ -153,16 +153,16 @@
 
 ---
 
-### 👀 Кто заглядывал
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=ТВОЙ_НИК&label=👀%20Visitors&countColor=%23263759&style=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Blinowvw&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 👀 Profile Views
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ТВОЙ_НИК&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://counter.ovh/Blinowvw-profile" />
 </p>
